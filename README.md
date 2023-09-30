@@ -1,6 +1,7 @@
 # csfs1000_designs
 
 ## About the app ##
+This is my project for csfs1000, with three designs for different displays. The design is for a trading card seller website. 
 
 ## Figma Design ##
 https://www.figma.com/file/na26O3KbVPdKlFRu5WyUKz/Second-Cards-3-Display-Designs?type=design&node-id=0%3A1&mode=design&t=pLnfkI4g0TyoGgYO-1
