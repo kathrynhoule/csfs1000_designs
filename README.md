@@ -1,7 +1,7 @@
 # csfs1000_designs
 
-#About the app
+## About the app ##
 
-#Figma Design
+## Figma Design ##
 
-#User Stories
+## User Stories ##
